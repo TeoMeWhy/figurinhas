@@ -49,7 +49,7 @@ Vale ainda adicionarmos uma tabela descritiva com estatíticas sumarizadas, cons
 
 |Tamanho da Comunidade|Mínimo|Média|Máximo|
 |---|---|---|---|
-|01 | 59 | 964 | 1792 |
+|01 | 597 | 964 | 1792 |
 |02 | 458 | 637 | 1110 |
 |03 | 374 | 522 | 851 |
 |04 | 344 | 464 | 800 |
